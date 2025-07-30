@@ -1,9 +1,9 @@
 # Site settings
-title: Southen Wolf 123 Blog
-SEOTitle: Southen Wolf 123的博客 | Southen Wolf 123 Blog
+title: Southern Wolf 123 Blog
+SEOTitle: Southern Wolf 123的博客 | Southern Wolf 123 Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 Southen Wolf 123 的个人博客，但是我的名字不统一，如果在其他地方，看到相同的名字，请忽略。"
+# email: huxpro@gmail.com
+description: "这里是 Southern Wolf 123 的个人博客，但是我的名字不统一，如果在其他地方，看到相同的名字，请忽略。"
 keyword: "Blog, BTD2,"
 url: "https://southernwolf123.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -69,8 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
